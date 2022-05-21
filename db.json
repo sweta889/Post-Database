@@ -1,0 +1,22 @@
+{
+  "post": [
+    {
+      "firstname": "Jame",
+      "lastname": "Smith",
+      "post": "twinkle twinkle little star"
+     
+    },
+    {
+      "firstname": "Swiss",
+      "lastname": "Bass",
+      "post": "London bridge is falling down"
+      
+    },
+    {
+      "firstname": "John",
+      "lastname": "Brat",
+      "post": "when you are happy and you know it"
+      
+    }
+  ]
+}
